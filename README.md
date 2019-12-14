@@ -4,9 +4,9 @@ Bonjour à tous,
 
 voici le repository contenant mes deux projets de geométrie appliquée à l'informatique avec Python.
 
-Ces deux projets se sont réaliser sur plus d'un an, les soirs après les cours : )
+Ils ont été écrits sur plus d'un an, les soirs après les cours : )
 
-Vous trouverez une explication ( rédigée par un excelent mathematicien très modeste XD ) au projet de 3D avec le lien suivant : 
+Vous trouverez une explication ( rédigée par un excelent mathématicien très modeste XD ) au projet de 3D au le lien suivant : 
 
  https://miradox.github.io/Geometrie/
 
